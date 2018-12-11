@@ -1,7 +1,7 @@
 # original
 swift_github/AppDelegate.swift
 swift_github/Info.plist
-swift_github/NoTouch/
+swift_github/NoTouch/*
 
 # Xcode
 #
