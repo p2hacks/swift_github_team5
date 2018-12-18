@@ -10,6 +10,10 @@ import UIKit
 
 class View2Controller: UIViewController {
 
+    @IBAction func changeButton(_ sender: Any) {
+        view.backgroundColor = UIColor.green
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
