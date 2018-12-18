@@ -11,6 +11,8 @@ import UIKit
 
 class View5Controller: UIViewController {
 
+    @IBAction func changeButton(_ sender: Any) {
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
 
