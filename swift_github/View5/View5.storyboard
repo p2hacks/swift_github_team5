@@ -49,6 +49,7 @@
                                     <color key="titleShadowColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
+                                    <action selector="changeButton:" destination="J4D-yx-5kY" eventType="touchUpInside" id="d6v-rl-X9w"/>
                                     <segue destination="5Wk-5U-Oft" kind="show" id="wbd-bn-90j"/>
                                 </connections>
                             </button>
