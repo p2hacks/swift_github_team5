@@ -10,6 +10,10 @@ import UIKit
 
 class View3Controller: UIViewController {
 
+    @IBAction func changeButton(_ sender: Any) {
+        view.backgroundColor = UIColor.black
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
